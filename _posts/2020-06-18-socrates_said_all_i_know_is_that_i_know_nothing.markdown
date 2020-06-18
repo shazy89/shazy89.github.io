@@ -18,5 +18,5 @@ This was a huge step for me and I believe that I’m going to take even bigger s
 
 But I will never forget that Socrates said, "All I know is that I know nothing”
 To me this means there is always something to learn no matter how much you know!! 
-Then, lets continue with learning what’s the next project ? :D
+Then, lets continue with learning what’s the next project ?  :D
 
