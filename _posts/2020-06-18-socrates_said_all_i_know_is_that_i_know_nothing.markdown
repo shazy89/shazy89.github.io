@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Socrates said, All I know is that I know nothing."
+title:      "Socrates said, *All I know is that I know nothing*."
 date:       2020-06-18 12:23:47 -0400
 permalink:  socrates_said_all_i_know_is_that_i_know_nothing
 ---
