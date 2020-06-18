@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Socrates said, "*All I know is that I know nothing*"."
-date:       2020-06-18 16:23:46 +0000
+date:       2020-06-18 12:23:47 -0400
 permalink:  socrates_said_all_i_know_is_that_i_know_nothing
 ---
 
@@ -19,4 +19,4 @@ This was a huge step for me and I believe that I’m going to take even bigger s
 **But I will never forget that Socrates said, "All I know is that I know nothing”
 To me this means there is always something to learn no matter how much you know!! 
 Then, lets continue with learning what’s the next project ? :D**
-![](https://miro.medium.com/proxy/1*5GuGdaGOv5n-jP0lkYn54g.jpeg)
+
