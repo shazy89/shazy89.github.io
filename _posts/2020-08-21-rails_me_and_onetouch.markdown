@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Rails me and oneTouch"
-date:       2020-08-21 12:48:44 +0000
+title:      "Rails, me and oneTouch"
+date:       2020-08-21 08:48:44 -0400
 permalink:  rails_me_and_onetouch
 ---
 
