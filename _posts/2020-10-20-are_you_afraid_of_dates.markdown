@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Are you afraid of dates?"
-date:       2020-10-20 16:42:20 +0000
+date:       2020-10-20 12:42:21 -0400
 permalink:  are_you_afraid_of_dates
 ---
 
@@ -39,6 +39,7 @@ Lets break the code down.  `let std = new Date(stDaye)` and `let end = new Date(
           nextDay.setDate(nextDay.getDate() + i)
           days = [...days, nextDay]
       }
+			
 Here we have the code` let nextDay = new Date(stDaye)` is representing the selected start day. `nextDay.setDate(nextDay.getDate() + i)` will create the next day for us and  `days = [...days, nextDay]` populates the days array with the new date.
 Now you have an array with a selected date. All you have to do is use the same function for booking dates and compare 2 arrays and check for availability.  Here is how I’m comparing two arrays for the same days.
 
