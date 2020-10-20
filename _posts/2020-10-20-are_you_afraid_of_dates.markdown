@@ -34,11 +34,11 @@ Lets break the code down.  `let std = new Date(stDaye)` and `let end = new Date(
 `let daysInTime = end.getTime() - std.getTime();` The `getTime()` method returns the number of milliseconds. 
   `const date = new Date();` `console.log(date.getTime());` and output: 1603205407144.  This means if we take out from our  `end.getTime()` the `std.getTime()` will find the amount of selected days in milliseconds. Now lets return milliseconds to total days. `   let totalDays = daysInTime / (1000 * 3600 * 24);`Cool. We are doing good, we have everything we need for our `for loop`.
 	
-	     for (let i = 0; i < Math.ceil(totalDays); i++){
+	   `  for (let i = 0; i < Math.ceil(totalDays); i++){
         let nextDay = new Date(stDaye)
           nextDay.setDate(nextDay.getDate() + i)
           days = [...days, nextDay]
-      }
+      }`
 			
 Here we have the code` let nextDay = new Date(stDaye)` is representing the selected start day. `nextDay.setDate(nextDay.getDate() + i)` will create the next day for us and  `days = [...days, nextDay]` populates the days array with the new date.
 Now you have an array with a selected date. All you have to do is use the same function for booking dates and compare 2 arrays and check for availability.  Here is how I’m comparing two arrays for the same days.
